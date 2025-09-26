@@ -23,5 +23,5 @@ Tasks are saved in the browser’s localStorage so data persists after page refr
 - Persisting data in localStorage
 - Styling a responsive and interactive UI
 ## Live Demo
-## Screenshots
+https://simple-todolist-2025.netlify.app/
 
