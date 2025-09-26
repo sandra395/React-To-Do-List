@@ -1,16 +1,27 @@
-# React + Vite
+## React To-Do List
+A simple, interactive To-Do List built with React. Users can add tasks with a due date and priority level, mark tasks as completed, and delete tasks. 
+Tasks are saved in the browser’s localStorage so data persists after page refreshes.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Key Features
+•	Add tasks with text, date, and priority
+•	Mark tasks as completed
+•	Delete tasks
+•	Priority levels are color-coded
+•	Form validation with inline error messages
+•	Responsive design
 
-Currently, two official plugins are available:
+## Technologies Used
+•	React (useState, useEffect)
+•	JavaScript (ES6+)
+•	CSS (responsive styling)
+•	LocalStorage
+•	Vite for project setup
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## What I Learned
+•	Managing React state and side effects
+•	Implementing user interactions and validation
+•	Persisting data in localStorage
+•	Styling a responsive and interactive UI
+## Live Demo
+## Screenshots
 
-## React Compiler
-
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
